@@ -4,18 +4,7 @@ Brand Pulse is a Python-based project that collects comments from the top 10 You
 
 ## Features
 
-* Fetch top 10 videos for a brand
+* Fetch top 10 videos
 * Extract comments
-* Store video_id, comment, date, and time in JSON
-* Filter non-English comments
+* Store video_id, date and comments in JSON
 
-## Technologies Used
-
-* Python
-* YouTube Data API
-* JSON
-
-## Example
-
-Input: swiggy
-Output: swiggy_data.json
